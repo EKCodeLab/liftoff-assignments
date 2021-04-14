@@ -1,4 +1,7 @@
 # Liftoff Assignments
+1. ACT:  Enable *GitHub Issues* for your repository
+
+
 
 This repository is the base repo for all assignments in LaunchCode's [Liftoff](https://education.launchcode.org/liftoff/) course.
 
