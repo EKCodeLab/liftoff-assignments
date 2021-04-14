@@ -1,5 +1,5 @@
 # Liftoff Assignments
-1. ACT:  Enable *GitHub Issues* for your repository
+1. ACT-  Enable *GitHub Issues* for your repository
 
 
 
