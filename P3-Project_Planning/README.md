@@ -1,14 +1,19 @@
 # Project Planning
 For this assignment, you'll create some initial plans for your project.
 
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+## Assignment
+[Project Planning Assignment Discription](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
-## Submission Instructions
+[comment]: <> (## Submission Instructions)
 
 ### Wireframes
+* mvp Landing Page
+* mvp Login
+* mvp Create/Edit Event
+* mvp Event Profile
+* mvp User Profile
+* mvp Registration page
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
 
