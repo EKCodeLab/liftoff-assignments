@@ -7,12 +7,12 @@ For this assignment, you'll create some initial plans for your project.
 [comment]: <> (## Submission Instructions)
 
 ### Wireframes
-* [mvp Landing Page](https://github.com/EKCodeLab/liftoff-assignments/tree/master/P3-Project_Planning/1_LandingPage_WireframeApril192021 MVP_set .pdf)
-* mvp Login
-* mvp Create/Edit Event
-* mvp Event Profile
-* mvp User Profile
-* mvp Registration page
+* [mvp Landing Page](https://github.com/EKCodeLab/liftoff-assignments/tree/master/P3-Project_Planning/1_LandingPage_WireframeApril192021_MVP_set.pdf)
+* [mvp Login](https://github.com/EKCodeLab/liftoff-assignments/tree/master/P3-Project_Planning/2_Login_WireframeApril192021_MVP_set.pdf)
+* [mvp Create/Edit Event](https://github.com/EKCodeLab/liftoff-assignments/tree/master/P3-Project_Planning/3_CreateEditEvent_WireframeApril192021_MVP_set.pdf)
+* [mvp Event Profile](https://github.com/EKCodeLab/liftoff-assignments/tree/master/P3-Project_Planning/4_EventProfileWireframeApril192021_MVP_set.pdf)
+* [mvp User Profile](https://github.com/EKCodeLab/liftoff-assignments/tree/master/P3-Project_Planning/5_userProfile-WireframeApril192021_MVP_set.pdf)
+* [mvp Registration page](https://github.com/EKCodeLab/liftoff-assignments/tree/master/P3-Project_Planning/6_register_WireframeApril192021_MVP_set.pdf)
 
 
 ### Project Tracker
