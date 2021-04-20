@@ -1,10 +1,11 @@
 # Online Profiles
-For this assignment you will need to upload your resume and provide links to your GitHub account and your LinkedIn account.
+this folder includes my resume and links to my GitHub account and LinkedIn.
 
-## Assignment Description
-[Online Profiles Assignment](https://education.launchcode.org/liftoff/modules/assignments/online-profiles)
+[comment]: <> (## Assignment Description)
 
-## Submission Instructions
+[comment]: <> ([Online Profiles Assignment]&#40;https://education.launchcode.org/liftoff/modules/assignments/online-profiles&#41;)
+
+[comment]: <> (## Submission Instructions)
  
 ### GitHub
 https://github.com/KoehnLab
