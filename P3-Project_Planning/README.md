@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 [comment]: <> (## Submission Instructions)
 
 ### Wireframes
-* mvp Landing Page
+* [mvp Landing Page](https://github.com/EKCodeLab/liftoff-assignments/tree/master/P3-Project_Planning/1_LandingPage_WireframeApril192021 MVP_set .pdf)
 * mvp Login
 * mvp Create/Edit Event
 * mvp Event Profile
