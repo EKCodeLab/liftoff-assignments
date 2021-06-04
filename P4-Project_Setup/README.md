@@ -5,7 +5,7 @@
 ## Assignment Description
 [Project Setup Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-setup)
 
-## Submission Instructions
+
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+[So I Went to a Concert](https://github.com/tomvalli/soiwenttoaconcert/blob/main/src/main/java/org/tom_v_squad/soiwenttoaconcert/SoiwenttoaconcertApplication.java)
