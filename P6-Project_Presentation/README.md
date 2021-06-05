@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[So I Went To a Concert PDF](LC101-LiftOff_Project_PresentationEK.pdf)
